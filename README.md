@@ -7,6 +7,9 @@ A project for tracking bugs in Discord's canary builds.
 
 ### Changes
 
+#### 0.0.5
+- Fixed [a crash](https://github.com/crmarsh/discord-linux-bugs/issues/21)
+
 #### 0.0.4
 - Initial version of game detection
 - Idle timer is watching you slack off
