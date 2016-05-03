@@ -7,6 +7,9 @@ A project for tracking bugs in Discord's canary builds.
 
 ### Changes
 
+#### 0.0.6
+- Revised game detection to stop trying to detect ways to crash
+
 #### 0.0.5
 - Fixed [a crash](https://github.com/crmarsh/discord-linux-bugs/issues/21)
 
