@@ -10,6 +10,7 @@ A project for tracking bugs in Discord's canary builds.
 #### 0.0.7
 - Took another stab at crash bug
 - Fixed up crash reporting so I can tell when I've failed
+- upgraded webrtc
 
 #### 0.0.6
 - Revised game detection to stop trying to detect ways to crash
