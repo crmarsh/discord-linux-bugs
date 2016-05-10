@@ -7,6 +7,9 @@ A project for tracking bugs in Discord's canary builds.
 
 ### Changes
 
+#### 0.0.8
+- Fixed [bug](https://github.com/crmarsh/discord-linux-bugs/issues/35) in more cases
+
 #### 0.0.7
 - Took another stab at crash bug
 - Fixed up crash reporting so I can tell when I've failed
