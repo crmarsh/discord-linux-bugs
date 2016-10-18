@@ -7,6 +7,15 @@ A project for tracking bugs in Discord's canary builds.
 
 ### Changes
 
+#### 0.0.9
+- Added back in splash screen you never knew you needed
+- Like a million new versions of chrome
+- Built in a new way that probably doesn't matter to you
+- Initial versions of RPC and contact syncing
+- Less stablility
+- A crash fix for WebRTC
+- Oh shit, it's been thousands of commits since the last release, I'm not reading all of this
+
 #### 0.0.8
 - Fixed [bug](https://github.com/crmarsh/discord-linux-bugs/issues/35) in more cases
 
