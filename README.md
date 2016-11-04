@@ -7,6 +7,10 @@ A project for tracking bugs in Discord's canary builds.
 
 ### Changes
 
+#### 0.0.10
+- Upgraded electron
+- Tweaked a networking thing
+
 #### 0.0.9
 - Added back in splash screen you never knew you needed
 - Like a million new versions of chrome
