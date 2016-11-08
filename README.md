@@ -7,6 +7,14 @@ A project for tracking bugs in Discord's canary builds.
 
 ### Changes
 
+#### 0.0.11
+- Fixed a couple splash screen bugs
+- Put Discord in the window title again
+- Fixed a crash or three
+- Maybe get volume right more often
+- Wonder how many bullet points I can get out of a dozen lines of code
+- Turns out: 6
+
 #### 0.0.10
 - Upgraded electron
 - Tweaked a networking thing
