@@ -1,11 +1,15 @@
 # discord-linux-bugs
-A project for tracking bugs in Discord's canary builds.
+A project that tracks some of the bugs in Discord's canary builds. There is also a [Discord server](https://discord.gg/discord-testers) for people who want to be involved with reporting bugs.
 
 ### Downloads
 - [.deb file](https://discordapp.com/api/download/canary?platform=linux)
 - [.tar.gz file](https://discordapp.com/api/download/canary?platform=linux&format=tar.gz)
 
 ### Changes
+
+#### 0.0.12
+- Using ALSA doesn't also use 100% of a cpu core now.
+- Some other crash fixes
 
 #### 0.0.11
 - Fixed a couple splash screen bugs
