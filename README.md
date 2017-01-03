@@ -7,6 +7,11 @@ A project that tracks some of the bugs in Discord's canary builds. There is also
 
 ### Changes
 
+#### 0.0.13
+- These aren't the droids you're looking for
+- He can go about his business
+- Move along
+
 #### 0.0.12
 - Using ALSA doesn't also use 100% of a cpu core now.
 - Some other crash fixes
