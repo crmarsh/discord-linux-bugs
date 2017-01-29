@@ -1,6 +1,6 @@
 # discord-linux-bugs
 A project that tracks some of the bugs in Discord's canary builds. There is also a [Discord server](https://discord.gg/discord-testers) for people who want to be involved with reporting bugs.
-
+![alt img](http://www.undeadlords.net/wp-content/uploads/2016/08/Discord-Feature-Graphic-1.png)
 ### Downloads
 - [.deb file](https://discordapp.com/api/download/canary?platform=linux)
 - [.tar.gz file](https://discordapp.com/api/download/canary?platform=linux&format=tar.gz)
