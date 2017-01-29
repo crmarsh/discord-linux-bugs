@@ -7,6 +7,10 @@ A project that tracks some of the bugs in Discord's canary builds. There is also
 
 ### Changes
 
+We now build and publish canary builds automatically on each checkin of relevant stuff to master, and I'm not going to try to call out each of the changes here.
+
+### Previous Changes
+
 #### 0.0.13
 - These aren't the droids you're looking for
 - He can go about his business
