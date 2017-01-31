@@ -1,12 +1,14 @@
 # discord-linux-bugs
 A project that tracks some of the bugs in Discord's canary builds. There is also a [Discord server](https://discord.gg/discord-testers) for people who want to be involved with reporting bugs.
 
+[The regular download page](https://discordapp.com/downloads) has links to stable and public test build branches. These are what you should be using unless you really like testing out new stuff and don't mind dealing with in-development software. Any help with bug reporting is certainly appreciated, but you shouldn't feel like it is required :-)
+
 ### Downloads
-- [.deb file](https://discordapp.com/api/download/canary?platform=linux)
-- [.tar.gz file](https://discordapp.com/api/download/canary?platform=linux&format=tar.gz)
+- [Non-canary builds](https://discordapp.com/downloads)
+- [Canary .deb file](https://discordapp.com/api/download/canary?platform=linux)
+- [canary .tar.gz file](https://discordapp.com/api/download/canary?platform=linux&format=tar.gz)
 
 ### Changes
-
 We now build and publish canary builds automatically on each checkin of relevant stuff to master, and I'm not going to try to call out each of the changes here.
 
 ### Previous Changes
